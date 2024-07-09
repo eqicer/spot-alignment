@@ -1,1 +1,1 @@
-# spot-alignment
+# 使用Python编写的光斑对准系统上位机软件
